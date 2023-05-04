@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/课堂演示" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1027" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1110" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/链表基本操作" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1129" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1201" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/学生信息管理系统" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0307" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0313" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0316" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03162" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0320" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0323" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0406" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0417" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0420" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0504" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
